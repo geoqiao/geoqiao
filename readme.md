@@ -17,3 +17,5 @@ This repository documents my journey of learning Python and data analysis. As an
 6. **English Support**: Add English language support to the repository, including README, documentation, and code comments, to attract an international audience and provide a wider range of learning resources.
 
 7. **Contributions and Collaboration**: Encourage others to contribute to the repository, whether it's providing improvement suggestions, submitting code examples, or sharing their own learning experiences. Through collaboration, we can collectively drive the development and growth of this repository.
+
+These plans will help me organize and share my experiences and resources in learning Python and data analysis in a systematic manner. Through continuous updates and improvements, I hope this repository becomes a valuable learning resource, providing assistance to others in their learning and career development.
