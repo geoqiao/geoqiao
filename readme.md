@@ -8,14 +8,13 @@ Post-loan strategy analyst by day. Usually tinkering with Python, TypeScript, or
 
 ## Things I'm building
 
-<!-- The pi-ask mark is cropped from its existing banner, not a new pi-tools logo:
-https://github.com/geoqiao/pi-tools/blob/bd3d512d328b01c7b54320afcc74e2d8faeaa058/packages/pi-ask/docs/media/pi-ask-main.png
+<!-- The pi-tools icon was generated specifically for this project, not cropped from the upstream pi-ask artwork.
 Other project artwork is linked at fixed commits to keep this page stable. -->
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<a href="https://github.com/geoqiao/pi-tools"><img src="assets/pi-ask-mark.png" width="48" height="48" alt="pi-ask, part of pi-tools"></a>
+<a href="https://github.com/geoqiao/pi-tools"><img src="assets/pi-tools-icon.png" width="48" height="48" alt="pi-tools pixel toolbox logo"></a>
 <h3><a href="https://github.com/geoqiao/pi-tools">pi-tools</a></h3>
 <p>Structured questions, side conversations, and local AI usage reports.</p>
 <p><sub>TypeScript · Pi &amp; Paseo</sub></p>
