@@ -1,21 +1,24 @@
-# Welcome to my GitHub page!
+# Hi, I'm Geo Qiao 👋
 
-This repository documents my journey of learning Python and data analysis. As an ordinary graduate with a background in business studies, I went from knowing nothing about vlookup to becoming proficient in Excel, and then ventured into learning SQL and Python to tackle data analysis tasks. Through this repository, I aim to record/share my learning experiences and help others in their journey of learning Python and data analysis.
+I like tinkering with tools, making repetitive work less repetitive, and learning by building.
 
-# The plan for this GitHub page is as follows:
+My day job is in post-loan strategy analysis. Here, you'll mostly find AI coding experiments, Python and TypeScript tools, and a JoJo side project.
 
-1. **Study Notes and Tutorials**: Create a folder to store my study notes and tutorials on learning Python and data analysis. These resources will cover fundamental concepts, syntax, common issues, and solutions.
+[Blog](https://geoqiao.me/) · [About me](https://geoqiao.me/about/) · [RSS](https://geoqiao.me/atom.xml)
 
-2. **Code Examples**: Establish a folder for code examples showcasing Python scripts and snippets I have written during my learning journey. These examples will encompass practical applications in data processing, data visualization, machine learning, and more.
+## Things I'm building
 
-3. **Useful Tools and Scripts**: Create a folder to collect and share useful Python tools and scripts that streamline data analysis and processing tasks. These tools may involve Excel automation, data cleaning, data scraping, and other relevant areas.
+| Project | What it does |
+| --- | --- |
+| [pi-tools](https://github.com/geoqiao/pi-tools) | Better questions in Pi, side conversations in Paseo, and local AI usage reports. |
+| [escaping](https://github.com/geoqiao/escaping) | Turns GitHub Issues into a personal website. Also powers [my blog](https://geoqiao.me/). |
+| [oh-my-share](https://github.com/geoqiao/oh-my-share) | A local CLI for coding agents to query public stock data from mainland China, Hong Kong, and the US. |
+| [JoJo Codex Pet](https://github.com/geoqiao/jojo-codex-pet) | Unofficial, non-commercial JoJo-themed animated pets for Codex. [Visit the gallery](https://pixelstand.pet/). |
 
-4. **Problem Solving and Discussions**: Set up a section for problem-solving and discussions, encouraging others to ask questions related to learning Python and data analysis and share experiences and solutions.
+## Notes from the blog
 
-5. **Resource Recommendations**: Build a resource recommendation page, including recommendations for high-quality learning resources, tutorials, books, and online courses that I have found valuable during my journey of learning Python and data analysis.
+I write mostly in Chinese about tools, AI workflows, and things I'm trying.
 
-6. **English Support**: Add English language support to the repository, including README, documentation, and code comments, to attract an international audience and provide a wider range of learning resources.
-
-7. **Contributions and Collaboration**: Encourage others to contribute to the repository, whether it's providing improvement suggestions, submitting code examples, or sharing their own learning experiences. Through collaboration, we can collectively drive the development and growth of this repository.
-
-These plans will help me organize and share my experiences and resources in learning Python and data analysis in a systematic manner. Through continuous updates and improvements, I hope this repository becomes a valuable learning resource, providing assistance to others in their learning and career development.
+- [2026 AI 编程订阅对比：Codex、Claude Code、Kimi 怎么选？](https://geoqiao.me/blog/ai-coding-subscriptions-api-value-comparison/)
+- [我试了 6 款 Agent Orchestrator，这是我的最终选择](https://geoqiao.me/blog/agent-orchestrator-desktop-selection/)
+- [从 Obsidian 到博客：我如何用一条命令把笔记变成网站](https://geoqiao.me/blog/publish-obsidian-notes-with-one-command/)
